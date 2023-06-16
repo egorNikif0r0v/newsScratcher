@@ -1,0 +1,4 @@
+drivers
+env
+node_modules
+*.json
